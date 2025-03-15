@@ -2,14 +2,14 @@
   "name": "jslessons",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://  нікнейм на гітхабі.github.io/назва вашого репо",
+  "homepage": "https://  Sokolove-Olexii.github.io/HTTP.requests-Fetch.API",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ваш репо/"
+    "build": "parcel build src/*.html --public-url /HTTP.requests-Fetch.API/"
   },
   "repository": {
     "type": "git",
-    "url": "git+посилання на ваш репозиторій.git"
+    "url": "git+https://github.com/Sokolove-Olexii/HTTP.requests-Fetch.API.git"
   },
   "keywords": [],
   "author": "",
